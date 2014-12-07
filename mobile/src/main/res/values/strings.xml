@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">android-catalogo-nfc</string>
+    <string name="title_activity_main">Android NFC</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nome_clube">Hey Apps</string>
+    <string name="hino_clube">Este aplicativo é um exemplo de utilização de tags NFC\n
+                              Use a tag adequado de acordo com o time cadastrado\n
+                              e confira informações sobre o clube
+    </string>
+    <string name="nome_palmeiras">Sociedade Esportiva Palmeiras</string>
+    <string name="tocar_hino">Tocar Hino</string>
+    <string name="hino_palmeiras">  Quando surge o alviverde imponente\n
+                                    No gramado em que a luta o aguarda\n
+                                    Sabe bem o que vem pela frente\n
+                                    Que a dureza do prélio não tarda!\n\n
+
+                                    E o Palmeiras no ardor da partida\n
+                                    Transformando a lealdade em padrão\n
+                                    Sabe sempre levar de vencida\n
+                                    E mostrar que, de fato, é campeão!\n\n
+
+                                    Defesa que ninguém passa\n
+                                    Linha atacante de raça\n
+                                    Torcida que canta e vibra\n\n
+
+                                    Defesa que ninguém passa\n
+                                    Linha atacante de raça\n
+                                    Torcida que canta e vibra\n
+                                    Por nosso alviverde inteiro\n
+                                    Que sabe ser brasileiro\n
+                                    Ostentando a sua fibra!\n
+    </string>
+
+    <string name="nome_corinthians">Sport Club Corinthians</string>
+    <string name="hino_corinthians">
+                                    Salve o Corinthians\n
+                                    O campeão dos campeões\n
+                                    Eternamente dentro dos nossos corações\n
+                                    Salve o Corinthians de tradições e glórias mil\n
+                                    Tu és orgulho\n
+                                    Dos desportistas do Brasil\n\n
+
+                                    Teu passado é uma bandeira\n
+                                    Teu presente é uma lição\n
+                                    Figuras entre os primeiros\n
+                                    Do nosso esporte bretão\n\n
+
+                                    Corinthians grande\n
+                                    Sempre Altaneiro\n
+                                    És do Brasil\n
+                                    O clube mais brasileiro\n
+
+                                    Salve o Corinthians\n
+                                    O campeão dos campeões\n
+                                    Eternamente dentro dos nossos corações\n
+                                    Salve o Corinthians de tradições e glórias mil\n
+                                    Tu és orgulho\n
+                                    Dos desportistas do Brasil\n\n
+
+                                    Salve o Corinthians\n
+                                    O campeão dos campeões\n
+                                    Eternamente dentro dos nossos corações\n
+                                    Salve o Corinthians de tradições e glórias mil\n
+                                    Tu és orgulho\n
+                                    Dos desportistas do Brasil\n
+
+    </string>
+
+
+
+</resources>
